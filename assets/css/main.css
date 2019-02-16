@@ -1880,6 +1880,17 @@ input, select, textarea {
 				width: 100%;
 			}
 
+		.miniature {
+			display: inline-block;
+			margin: 0 1em 1em 0;
+		}	
+
+			.miniature img {
+				display: inline-block;
+				width: 50%;
+				vertical-align: center;
+			}
+
 /* Icon */
 
 	.icon {
