@@ -23,7 +23,8 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: baseline;
+}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -127,6 +128,10 @@ input, select, textarea {
 	p, ul, ol, dl, table, blockquote {
 		margin: 0 0 2em 0;
 	}
+
+		.content {
+			text-align: justify;
+		}
 
 	h1, h2, h3, h4, h5, h6 {
 		color: inherit;
