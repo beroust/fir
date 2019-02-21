@@ -125,6 +125,10 @@ input, select, textarea {
 		font-weight: 400;
 	}
 
+		.eventlist {
+			font-weight: bold;
+		}
+
 	p, ul, ol, dl, table, blockquote {
 		margin: 0 0 2em 0;
 	}
@@ -132,6 +136,14 @@ input, select, textarea {
 		.content {
 			text-align: justify;
 		}
+
+		ul .eventlist {
+			margin: 0 0 0 0;
+		}
+
+	li {
+		margin: 0 0 1em 0;
+	}
 
 	h1, h2, h3, h4, h5, h6 {
 		color: inherit;
