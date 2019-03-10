@@ -2637,7 +2637,7 @@ input, select, textarea {
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
 		background-size: 25em, 25em, auto, cover;
 		color: #fff;
-		padding: 5em;
+		padding: 5em 5em 15em 5em;
 		text-align: center;
 	}
 
