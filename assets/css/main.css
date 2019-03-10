@@ -2536,8 +2536,8 @@ input, select, textarea {
 		background-image: url("../../images/banner.jpeg");
 		background-position: top center;
 		background-repeat: no-repeat;
-		background-size: contain;
-		color: #fff;
+		background-size: cover;
+		color: #fefef5;
 		cursor: default;
 		padding: 6em 0;
 		text-align: center;
@@ -2635,7 +2635,7 @@ input, select, textarea {
 		background-image: url("images/light-tl.svg"), url("images/light-tr.svg"), url("images/overlay.png"), url("../../images/sponsors.png");
 		background-position: top left, top right, top left, bottom center;
 		background-repeat: no-repeat, no-repeat, repeat, no-repeat;
-		background-size: 25em, 25em, contain, cover;
+		background-size: 25em, 25em, auto, cover;
 		color: #fff;
 		padding: 5em;
 		text-align: center;
