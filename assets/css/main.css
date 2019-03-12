@@ -3275,7 +3275,7 @@ input, select, textarea {
 				#banner .inner {
 					background-color: rgba(52, 27, 43, 0.5);
 					display: block;
-					padding: 0 1.5em;
+					padding: 1em 1.5em;
 				}
 
 					#banner .inner header h2 {
