@@ -3268,7 +3268,7 @@ input, select, textarea {
 
 			#banner {
 				background-size: 10em, 10em, auto, cover;
-				background-image: url("../../images/banner-mobile.jpeg")
+				background-image: url("../../images/banner-mobile.jpeg");
 				padding: 6em 0;
 			}
 
