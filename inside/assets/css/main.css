@@ -1909,7 +1909,6 @@ input, select, textarea {
 			.miniature img {
 				display: inline-block;
 				width: 50%;
-				vertical-align: center;
 			}
 
 /* Icon */
